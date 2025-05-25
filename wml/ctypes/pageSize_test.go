@@ -5,7 +5,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/gomutex/godocx/wml/stypes"
+	"github.com/kjanat/godocx/wml/stypes"
 )
 
 func TestPageSize_MarshalXML(t *testing.T) {

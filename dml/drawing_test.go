@@ -4,8 +4,8 @@ import (
 	"encoding/xml"
 	"testing"
 
-	"github.com/gomutex/godocx/dml/dmlct"
-	"github.com/gomutex/godocx/dml/dmlst"
+	"github.com/kjanat/godocx/dml/dmlct"
+	"github.com/kjanat/godocx/dml/dmlst"
 )
 
 func TestMarshalDrawing(t *testing.T) {

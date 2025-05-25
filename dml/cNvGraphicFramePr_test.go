@@ -5,7 +5,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/gomutex/godocx/dml/dmlst"
+	"github.com/kjanat/godocx/dml/dmlst"
 )
 
 func TestMarshalNonVisualGraphicFrameProp(t *testing.T) {
